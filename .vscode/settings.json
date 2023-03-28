@@ -19,9 +19,7 @@
     "**/.gitattributes": true,
     "**/.husky": true,
     "**/.pnp.*": true,
-    "**/.prettierignore": true,
-    "**/node_modules": true,
-    "**/yarn.lock": true
+    "**/.prettierignore": true
   },
   "search.exclude": {
     "**/dist/": true,
