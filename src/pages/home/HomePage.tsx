@@ -8,7 +8,7 @@ export default function HomePage(): JSX.Element {
   return (
     <Container sx={{ py: "20vh" }} maxWidth="sm">
       <Typography sx={{ mb: 2 }} variant="h1" align="center">
-        Welcome to React Starter Kit!
+        Welcome to React Starter Kit!!!
       </Typography>
 
       <Typography sx={{ mb: 4 }} variant="h3" align="center">
